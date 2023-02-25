@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.AssemblyInfo.cs
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik5\task16_elmtmassiv\bin\Debug\net6.0\task16_elmtmassiv.exe
+C:\Git brance\Reshebnik5\task16_elmtmassiv\bin\Debug\net6.0\task16_elmtmassiv.deps.json
+C:\Git brance\Reshebnik5\task16_elmtmassiv\bin\Debug\net6.0\task16_elmtmassiv.runtimeconfig.json
+C:\Git brance\Reshebnik5\task16_elmtmassiv\bin\Debug\net6.0\task16_elmtmassiv.dll
+C:\Git brance\Reshebnik5\task16_elmtmassiv\bin\Debug\net6.0\task16_elmtmassiv.pdb
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.dll
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\refint\task16_elmtmassiv.dll
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.pdb
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\task16_elmtmassiv.genruntimeconfig.cache
+C:\Git brance\Reshebnik5\task16_elmtmassiv\obj\Debug\net6.0\ref\task16_elmtmassiv.dll

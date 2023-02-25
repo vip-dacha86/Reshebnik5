@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.AssemblyInfo.cs
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik5\task17_massiv\bin\Debug\net6.0\task17_massiv.exe
+C:\Git brance\Reshebnik5\task17_massiv\bin\Debug\net6.0\task17_massiv.deps.json
+C:\Git brance\Reshebnik5\task17_massiv\bin\Debug\net6.0\task17_massiv.runtimeconfig.json
+C:\Git brance\Reshebnik5\task17_massiv\bin\Debug\net6.0\task17_massiv.dll
+C:\Git brance\Reshebnik5\task17_massiv\bin\Debug\net6.0\task17_massiv.pdb
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.dll
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\refint\task17_massiv.dll
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.pdb
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\task17_massiv.genruntimeconfig.cache
+C:\Git brance\Reshebnik5\task17_massiv\obj\Debug\net6.0\ref\task17_massiv.dll

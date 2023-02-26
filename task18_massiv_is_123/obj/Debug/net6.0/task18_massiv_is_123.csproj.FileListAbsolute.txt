@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik5\task18_massiv_is_123\bin\Debug\net6.0\task18_massiv_is_123.exe
+C:\Git brance\Reshebnik5\task18_massiv_is_123\bin\Debug\net6.0\task18_massiv_is_123.deps.json
+C:\Git brance\Reshebnik5\task18_massiv_is_123\bin\Debug\net6.0\task18_massiv_is_123.runtimeconfig.json
+C:\Git brance\Reshebnik5\task18_massiv_is_123\bin\Debug\net6.0\task18_massiv_is_123.dll
+C:\Git brance\Reshebnik5\task18_massiv_is_123\bin\Debug\net6.0\task18_massiv_is_123.pdb
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.AssemblyInfo.cs
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.dll
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\refint\task18_massiv_is_123.dll
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.pdb
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\task18_massiv_is_123.genruntimeconfig.cache
+C:\Git brance\Reshebnik5\task18_massiv_is_123\obj\Debug\net6.0\ref\task18_massiv_is_123.dll
